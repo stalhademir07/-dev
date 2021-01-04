@@ -1,0 +1,7 @@
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\bin\Debug\SayiTahminOyunuOdev1.KonsolApp.exe.config
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\bin\Debug\SayiTahminOyunuOdev1.KonsolApp.exe
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\bin\Debug\SayiTahminOyunuOdev1.KonsolApp.pdb
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\obj\Debug\SayiTahminOyunuOdev1.KonsolApp.csprojAssemblyReference.cache
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\obj\Debug\SayiTahminOyunuOdev1.KonsolApp.csproj.CoreCompileInputs.cache
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\obj\Debug\SayiTahminOyunuOdev1.KonsolApp.exe
+C:\Users\stalh\source\repos\SayiTahminOyunuOdev1.KonsolApp\SayiTahminOyunuOdev1.KonsolApp\obj\Debug\SayiTahminOyunuOdev1.KonsolApp.pdb
